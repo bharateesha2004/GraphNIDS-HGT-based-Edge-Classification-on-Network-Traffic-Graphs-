@@ -1,4 +1,4 @@
-# Graph-NIDS: Detecting Network Intrusions via HGT-based Edge Classification on Traffic Graphs
+# Graph-NIDS: Detecting Network Intrusions via HGT-based Edge Classification on Network Traffic Graphs
 
 This repository contains the code and resources for a Network Intrusion Detection System (NIDS) built using graph neural networks. Specifically, it leverages the Heterogeneous Graph Transformer (HGT) model on the UNSW-NB15 dataset to classify network traffic flows by treating them as edges in a graph.
 
